@@ -49,13 +49,13 @@ python SVD.py
 
 ## Project Structure
 
-`L1 Norm Approx.py`               # Rank-1 approximation with L1 error
-`random_clifford_eigenvectors.py` # Random Clifford eigenvector sampling & Bloch plots
-`SVD.py`                          # Simple CLI SVD
-`README.md`                       # Project overview
-`requirements.txt`                # Python dependencies
-`.gitignore`                      # Ignore caches and venvs
-`LICENSE`                         # MIT License
+- `L1 Norm Approx.py` — Rank-1 approximation with L1 error
+- `random_clifford_eigenvectors.py` — Random Clifford eigenvector sampling & Bloch plots
+- `SVD.py` — Simple CLI SVD
+- `README.md` — Project overview
+- `requirements.txt` — Python dependencies
+- `.gitignore` — Ignore caches and venvs
+- `LICENSE` — MIT License
 
 ---
 
