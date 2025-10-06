@@ -25,5 +25,7 @@ The program will output the decomposition:
 - Σ (singular values)
 - Vᵀ (right singular vectors)
 
+---
+
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE)
